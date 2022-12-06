@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TweetApp Backend.iml" filepath="$PROJECT_DIR$/.idea/TweetApp Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TweetApp-Registration-Service/TweetApp-Registration-Service.iml" filepath="$PROJECT_DIR$/TweetApp-Registration-Service/TweetApp-Registration-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TweetApp-Login-Service/tweetAppLogin.iml" filepath="$PROJECT_DIR$/TweetApp-Login-Service/tweetAppLogin.iml" />
+    </modules>
+  </component>
+</project>
